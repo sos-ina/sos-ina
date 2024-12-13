@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Sosina 👋
 
-<!--
-**sos-ina/sos-ina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Currently Learning**: Java, Structured Programming, and Power BI  
+💡 **Interests**: Software Development, Data Analysis, and Open Source  
+🚀 **Aspiring Goal**: To become a Software Engineer and collaborate on impactful projects  
+👯 **Looking to Collaborate**: On beginner-friendly and open-source projects  
 
-Here are some ideas to get you started:
+---
+### 🔧 **Technologies & Tools**  
+- Programming: `Java`, `Python`  
+- Data Visualization: `Power BI`  
+- Version Control: `Git/GitHub`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📈 **Projects**  
+- **Text encryptor** 
+  - A Java-based code to encrypt text.  
+- **Big Data Analysis Project**  
+  - Analyzed student performance factor.  
+
+Feel free to connect with me or check out my projects! 😊
