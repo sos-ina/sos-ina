@@ -7,7 +7,7 @@
 
 ---
 ### 🔧 **Technologies & Tools**  
-- Programming: `Java`, `Python`  
+- Programming: `Java`, `Python`,`Spring Boot`
 - Data Visualization: `Power BI`  
 - Version Control: `Git/GitHub`
 
