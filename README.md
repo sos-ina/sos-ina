@@ -122,14 +122,12 @@ A responsive multi-page shopping website featuring product listings, product inf
 
 **B.Sc. Software Engineering**
 Abu Dhabi University, UAE
-Expected August 2027 | GPA: **3.78/4.00**
+Expected August 2027
 
 ---
 
 ### 📫 Connect With Me
 
-* 💼 **LinkedIn:** [Your LinkedIn]
-* 📧 **Email:** [Your Email]
 * 💻 **GitHub:** You're already here! 😄
 
 ---
